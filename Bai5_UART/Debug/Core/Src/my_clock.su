@@ -1,0 +1,14 @@
+my_clock.c:54:6:alarm	24	static
+my_clock.c:69:6:fsm_clock	8	static
+my_clock.c:93:6:fsm_alarm	8	static
+my_clock.c:222:6:fsm_changing	8	static
+my_clock.c:364:6:reset_str	24	static
+my_clock.c:373:6:button0_fsm	8	static
+my_clock.c:415:6:button2_fsm	8	static
+my_clock.c:500:6:increase_value	24	static
+my_clock.c:561:6:button1_fsm	16	static
+my_clock.c:602:6:update_ds3231_register	8	static
+my_clock.c:617:6:update_clock	4	static
+my_clock.c:631:6:display_all_clock	8	static
+my_clock.c:645:6:display_mode	24	static
+my_clock.c:663:6:display_all_alarm	8	static
